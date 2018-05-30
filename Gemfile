@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
+ruby '2.3.7'
 
 gem 'thin', '~> 1.6.2'
 gem 'rack', '~> 1.6.1'
@@ -11,7 +12,7 @@ gem 'sinatra-contrib', '~> 1.4.2'
 
 gem 'aws-sdk', '~> 2.0.23', :require => false
 
-gem 'google-api-client', '~> 0.22.0'
+gem 'google-api-client', '~> 0.8.2'
 
 gem 'nokogiri', '~> 1.6.6.2'
 gem 'archieml', '~> 0.3.0'
