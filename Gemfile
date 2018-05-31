@@ -12,7 +12,7 @@ gem 'sinatra-contrib', '~> 1.4.2'
 
 gem 'aws-sdk', '~> 2.0.23', :require => false
 
-gem 'google-api-client', '~> 0.8.2'
+gem 'google-api-client', '~> 0.8.7'
 
 gem 'nokogiri', '~> 1.6.6.2'
 gem 'archieml', '~> 0.3.0'

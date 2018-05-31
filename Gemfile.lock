@@ -108,7 +108,7 @@ PLATFORMS
 DEPENDENCIES
   archieml (~> 0.3.0)
   aws-sdk (~> 2.0.23)
-  google-api-client (~> 0.8.2)
+  google-api-client (~> 0.8.7)
   nokogiri (~> 1.6.6.2)
   puma
   rack (~> 1.6.1)
